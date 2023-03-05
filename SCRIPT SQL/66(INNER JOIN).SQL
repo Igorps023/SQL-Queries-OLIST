@@ -1,0 +1,5 @@
+SELECT  *
+
+FROM TB_sellers
+
+WHERE SELLER_ID = '48436dade18ac8b2bce089ec2a041202'
